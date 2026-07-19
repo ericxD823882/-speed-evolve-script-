@@ -22,7 +22,7 @@ if currentPlaceId == 107654875426558 then
     targetCFrame = CFrame.new(11910.292, 176.249298, 971.666992, 0, 0, 1, 0, 1, -0, -1, 0, 0)
     titleText = "🦊 +1 speed evolve world 2"
 elseif currentPlaceId == 140544451091543 then
-    targetCFrame = CFrame.new(15790.292, -62.2506981, -62.8326416, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+    targetCFrame = CFrame.new(17631.293, -62.2506981, 340.167969, 0, 0, -1, 0, 1, 0, 1, 0, 0)
     titleText = "🦊 +1 speed evolve world 3"
 end
 
